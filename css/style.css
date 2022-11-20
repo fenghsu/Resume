@@ -41,7 +41,7 @@
 
 .profile-content{
 margin: 0 auto;
-padding-top: 100px;
+padding-top: 75px;
 padding-bottom: 60px;
 }
 @media(max-width:768px){
@@ -52,7 +52,7 @@ padding-bottom: 60px;
 }
 .profile-info{   
     display: inline-block; 
-    margin-bottom: 60px; 
+    margin-bottom: 20px; 
     left: 50%;
     transform: translateX(-50%);   
 }
@@ -95,7 +95,7 @@ padding: 0 5vh;
 }
 .profile-name{
 text-align: left;
-padding-left:200px;
+padding-left:20vh;
 }
 @media(max-width:768px){
     .profile-name{
