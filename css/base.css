@@ -57,7 +57,7 @@
   
   h1 {
     font-size: 2em;
-    margin: 0.67em 0;
+    margin: 0.35em 0;
   }
   
   /* Grouping content
@@ -376,12 +376,13 @@
 /* Color
 ---------------------------*/
 .bg-color-primary{ background-color: #fefefe; }
-.bg-color-secondary{ background-color: #fefde5; }
+.bg-color-secondary{ background-color: #EFEDF0; }
+.bg-color-third{ background-color: #EBDE28; }
 
 /* Text Color */
 .color-primary{ color:#484848; }
 .color-secondary{ color:#fc9185;}
-.color-third{ color:#253af8; }
+.color-third{ color:#EBDE28;}
 
 /* Typography 
 ---------------------------*/
@@ -393,10 +394,9 @@ h1,h2,h3,h4,h5,p{
 }
 
 h1{
-    font-size: 80px;
+    font-size: 95px;
     font-weight: 600;
     letter-spacing: 30px;
-    margin: 0.5rem 0;
 }
 @media(max-width:768px){
   h1{
@@ -416,12 +416,11 @@ h2{
 h3{
     font-size: 32px;
     font-weight: 400;
-    line-height:48px;
-    margin: 20px 0;
+    line-height:36px;
 }
 @media(max-width:768px){
   h3{
-      font-size: 16px;
+      font-size: 18px;
       line-height: 20px;    
   } 
 }
@@ -432,8 +431,8 @@ h4{
 }
 @media(max-width:768px){
   h4{
-      font-size: 12px;
-      line-height: 16px;    
+      font-size: 18px;
+      line-height: 20px;    
   } 
 }
 h5{
@@ -471,7 +470,7 @@ a:active{
 
 /* list */
 ul{
-    list-style: none;
+    list-style: none; 
     margin: 0;
     padding: 0;
 }
