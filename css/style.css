@@ -142,7 +142,7 @@ padding-left:20vh;
 }
 @media (max-width:768px){
     .profile-imgout{
-        height: 50vh;
+        height: 40vh;
     }    
 }
 .profile-img{
