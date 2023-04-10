@@ -82,7 +82,7 @@ padding-left:20vh;
         padding-left:30px;
     }
     .profile-job{
-        padding: 0 3vh;
+        padding: 0;
     }
 }
 
@@ -134,7 +134,7 @@ padding-left:20vh;
 }
 @media(max-width:768px){
     .profile-left{
-        height: 50vh;      
+        height: 40vh;      
     }
 }
 .profile-imgout{    
