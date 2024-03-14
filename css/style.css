@@ -360,7 +360,7 @@ padding-left:20vh;
     margin: 0 auto;
 }
 .work-item{
-    margin-bottom: 160px;
+    margin-bottom: 80px;
 }
 
 /* work-img */
@@ -406,7 +406,7 @@ padding-left:20vh;
     text-align: left;
 }
 .work-btn{
-    width: 80px;
+    width: 100px;
     color: #fff;
     background-color: #fc9185;
     border-radius: 10px;
